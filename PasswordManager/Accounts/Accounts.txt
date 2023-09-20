@@ -1,0 +1,2 @@
+Steam Account,https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_4__global-header,iwantjiminsbabys,znvmuDZE
+Myc3lium Gmail Login (Alt Steam Account Email),https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AXo7B7WT4JE1fwl_DjB9rXHoeYK3M1qxFDDj5hajQdEqzNTS9H497RgYOwFSWVztIfdNizZWCgP2lg&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1543845877%3A1692155022518862,My3lium@gmail.com,DiamondMiner*15
